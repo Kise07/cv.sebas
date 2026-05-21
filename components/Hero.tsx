@@ -24,7 +24,7 @@ export default function Hero() {
  hover:bg-slate-800 dark:bg-white dark:text-slate-900
  dark:hover:bg-slate-100 transition"
           >
-            View Projects
+            Latest Projects
           </Link>
           <Link
             href="https://github.com/Kise07"
